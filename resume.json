@@ -1,0 +1,75 @@
+{
+    "basics": {
+        "name": "Michal Cichra",
+        "label": "Software Engineer",
+        "picture": "https://scontent-mad1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/17662_10205909039661852_5613982898892848104_n.jpg?oh=4affab9fe4c0b4e45ee34b4957cf9926&oe=5632707F",
+        "email": "michal@cichra.cz",
+        "website": "https://michal.cichra.cz",
+        "summary": "Michal is from Prague. Earned degree from University of Economics, Prague. Before joining 3scale, he developed information systems for restaurant Zelená kuchyně and for sport centre Sportcentrum Avion. In 3scale his work started as.",
+        "location": {
+            "city": "Barcelona",
+            "country": "Spain"
+        },
+        "profiles": [{
+            "network": "Twitter",
+            "username": "_mikz"
+        }, {
+            "network": "GitHub",
+            "username": "mikz"
+        }]
+    },
+    "work": [{
+        "company": "3scale Networks S.L.",
+        "position": "Software Developer",
+        "website": "http://3scale.net",
+        "startDate": "2011-07-18",
+        "summary": "3scale is API Management company. Its self service API Management platform includes Authentication, Billing, Developer Portal, API Documentation and other features. 3scale also works on APItools - tooling for API developers.",
+        "highlights": [
+            "Maintain Rails application",
+            "Develop APItools",
+            "Focus on product on-boarding and user experience"
+        ]
+    }],
+    "education": [{
+        "institution": "University of Economics, Prague",
+        "area": "Applied Informatics",
+        "studyType": "Bachelor",
+        "startDate": "2008-10-01",
+        "endDate": "2012-06-01"
+    }],
+    "skills": [{
+        "name": "Web Development",
+        "level": "Master",
+        "keywords": [
+            "AngularJS",
+            "ECMAScript",
+            "SCSS",
+            "CoffeeScript",
+            "HTML",
+            "CSS"
+        ]
+    }, {
+        "name": "Software Development",
+        "keywords": [
+            "Ruby",
+            "Ruby on Rails",
+            "Lua",
+            "Elixir",
+            "Rust"
+        ]
+    }, {
+        "name": "DevOps",
+        "keywords": [
+            "Nginx",
+            "Docker",
+            "Jenkins"
+        ]
+    }],
+    "languages": [{
+        "language": "Czech",
+        "fluency": "Native speaker"
+    }, {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+    }]
+}
