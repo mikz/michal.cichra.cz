@@ -12,12 +12,20 @@
         },
         "profiles": [{
             "network": "Twitter",
-            "username": "_mikz"
+            "username": "_mikz",
+            "url": "https://twitter.com/_mikz"
         }, {
             "network": "GitHub",
-            "username": "mikz"
+            "username": "mikz",
+            "url": "github.com/mikz"
         }]
     },
+    "publications": [{
+        "name": "3scale Tech Blog",
+        "website": "http://tech.3scale.net/",
+        "publisher": "3scale",
+        "summary": "I've written about Ruby, GDB and ECMAScript in several blog posts."
+    }],
     "work": [{
         "company": "3scale Networks S.L.",
         "position": "Software Developer",
@@ -28,6 +36,17 @@
             "Maintain Rails application",
             "Develop APItools",
             "Focus on product on-boarding and user experience"
+        ]
+    }, {
+        "company": "Freelancer",
+        "position": "Software Developer",
+        "startDate": "2008-02-01",
+        "endDate": "2013-09-01",
+        "summary": "Working on small projects, usually few page websites for clients. But also developed a system for a restaurant with delivery, where they were doing planning, projections and customers were ordering. Last big project was a system for a sport centre. Not only that it was keeping track of reservations, but also printing receipts for customers and have to comply with local accounting law. In both projects plenty of the business logic is implemented in database, which allows pretty painless upgrades for last years.",
+        "highlights": [
+            "Developed quite big applications alone, from UI to DB",
+            "Using PostgreSQL",
+            "Focus on ease of use by not so experienced personnel"
         ]
     }],
     "education": [{
