@@ -5,7 +5,7 @@
         "picture": "https://scontent-mad1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/17662_10205909039661852_5613982898892848104_n.jpg?oh=4affab9fe4c0b4e45ee34b4957cf9926&oe=5632707F",
         "email": "michal@cichra.cz",
         "website": "https://michal.cichra.cz",
-        "summary": "Michal is from Prague. Earned degree from University of Economics, Prague. Before joining 3scale, he developed information systems for restaurant Zelená kuchyně and for sport centre Sportcentrum Avion. In 3scale his work started as.",
+        "summary": "I'm from Prague, Czech Republic. Earned degree from University of Economics, Prague. Before joining 3scale, I developed systems for a restaurant with delivery and sport centre and plenty of small websites as freelancer. After working remotely for few years I relocated to Barcelona, Spain and continued working for 3scale, but on new product called APItools. Working on APItools I gained experience of bootstrapping project from nothing, doing support, questioning our users, marketing it. Just like a startup within a startup. With that I moved on improving onboarding and user experience of 3scale's API Management platform.",
         "location": {
             "city": "Barcelona",
             "country": "Spain"
@@ -43,10 +43,8 @@
         "keywords": [
             "AngularJS",
             "ECMAScript",
-            "SCSS",
-            "CoffeeScript",
-            "HTML",
-            "CSS"
+            "SASS",
+            "CoffeeScript"
         ]
     }, {
         "name": "Software Development",
