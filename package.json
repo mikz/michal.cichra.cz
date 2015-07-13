@@ -4,6 +4,6 @@
   "repository": "github:mikz/michal.cichra.cz",
   "devDependencies": {
     "js-beautify": "^1.5.6",
-    "resume-cli": "^0.3.13"
+    "resume-cli": "^0.4.8"
   }
 }
